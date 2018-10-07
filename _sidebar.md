@@ -1,6 +1,7 @@
 * Getting started
 
-  * [Quick start](quickstartProccess](process.md)
+  * [Process](process.md)
+  * [Register](register.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTU1MjQwOV19
+eyJoaXN0b3J5IjpbLTY1NzA3MDg2OV19
 -->
