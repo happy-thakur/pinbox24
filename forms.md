@@ -5,6 +5,7 @@
 
 ## Input Text
 > This is simple input text with some properties
+
 ### Properties
 
  - Title: This is the label of the field.
